@@ -1,0 +1,16 @@
+.initial-scale {
+  display: flex;
+  width: 250px;
+  gap:10px;
+  
+}
+.flex{
+    display: flex;
+    width: 250px;
+    gap:10px;
+}
+.gap{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
